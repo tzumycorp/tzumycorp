@@ -1,8 +1,10 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/tzumy-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/tzumy-light.svg">
-    <img src="./assets/tzumy-light.svg" alt="TZUMY" width="100%">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/tzumy-hero-dark.png">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/tzumy-hero-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tzumy-hero-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tzumy-hero-light.gif">
+    <img src="./assets/tzumy-hero-light.gif" alt="TZUMY — logo en azul, lavanda y rosa" width="1000">
   </picture>
 </p>
 
@@ -13,7 +15,9 @@
   Construimos con criterio. Innovamos para crear valor.
 </p>
 
----
+<p align="center">
+  <img src="./assets/tzumy-divider.svg" alt="" width="100%">
+</p>
 
 ## Quiénes somos
 
@@ -45,7 +49,9 @@ La forma de construir importa tanto como el resultado.
 - **Escalabilidad.** Diseñar para evolucionar, sin añadir complejidad antes de necesitarla.
 - **Tecnología con propósito.** Partir de una necesidad real y evaluar las soluciones por su utilidad.
 
----
+<p align="center">
+  <img src="./assets/tzumy-divider.svg" alt="" width="100%">
+</p>
 
 <p align="center">
   <strong>TZUMY</strong><br>
