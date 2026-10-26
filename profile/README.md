@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-<h1 align="center">Tecnología con propósito.</h1>
+<h1 align="center">Innovación, tecnología y talento para construir el futuro</h1>
 
 <p align="center">
   Software, inteligencia artificial y nuevas posibilidades.<br>
@@ -44,46 +44,6 @@ La forma de construir importa tanto como el resultado.
 - **Colaboración.** Compartir conocimiento y reunir distintas perspectivas para resolver mejor.
 - **Escalabilidad.** Diseñar para evolucionar, sin añadir complejidad antes de necesitarla.
 - **Tecnología con propósito.** Partir de una necesidad real y evaluar las soluciones por su utilidad.
-
-## Tecnologías
-
-Elegimos las herramientas en función del problema. Estas tecnologías forman parte de nuestro ecosistema de interés y exploración; su presencia aquí no implica que todas estén implementadas en producción.
-
-**Lenguajes**<br>
-`Python` · `TypeScript` · `Swift`
-
-**Experiencias digitales**<br>
-`React` · `SwiftUI`
-
-**Datos e infraestructura**<br>
-`PostgreSQL` · `Docker` · `Git` · `GitHub Actions`
-
-**Inteligencia artificial**<br>
-`PyTorch` · `scikit-learn` · `Modelos de lenguaje` · `Evaluación de modelos`
-
-## Nuestros proyectos
-
-Construir también es compartir lo aprendido. Este espacio está preparado para presentar proyectos públicos de TZUMY conforme estén disponibles, con una descripción clara de su propósito, su estado y el acceso a su repositorio.
-
-*Los proyectos destacados se incorporarán aquí cuando puedan consultarse públicamente.*
-
-<!--
-Para destacar un proyecto, sustituir esta nota por una entrada como la siguiente.
-Publicar únicamente cuando el nombre, la descripción, el estado y la URL estén verificados.
-No dejar marcadores de posición visibles.
-
-### [Nombre del proyecto](URL verificada del repositorio)
-Descripción breve del problema que aborda y de su alcance real.
-**Estado:** etapa verificable · **Tecnologías:** herramientas utilizadas
--->
-
-## Colabora con nosotros
-
-Las buenas ideas se fortalecen con distintas perspectivas. Queremos conectar con desarrolladores, diseñadores, especialistas en IA, profesionales de datos y personas que compartan el interés por construir tecnología útil.
-
-En las futuras iniciativas abiertas a colaboración, cada repositorio indicará su contexto y las formas de participar. El código, el diseño, la documentación y las preguntas bien planteadas tienen un lugar en ese proceso.
-
-**Nos interesa construir con personas que cuiden tanto las ideas como su ejecución.**
 
 ---
 
