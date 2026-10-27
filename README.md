@@ -1,10 +1,10 @@
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/tzumy-hero-dark.png">
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/tzumy-hero-light.png">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/tzumy-hero-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/tzumy-hero-light.gif">
-    <img src="./assets/tzumy-hero-light.gif" alt="TZUMY — logo en azul, lavanda y rosa" width="1000">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./profile/assets/tzumy-hero-dark.png">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./profile/assets/tzumy-hero-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/assets/tzumy-hero-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/assets/tzumy-hero-light.gif">
+    <img src="./profile/assets/tzumy-hero-light.gif" alt="TZUMY — logo en azul, lavanda y rosa" width="1000">
   </picture>
 </p>
 
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/tzumy-divider.svg" alt="" width="100%">
+  <img src="./profile/assets/tzumy-divider.svg" alt="" width="100%">
 </p>
 
 ## Quiénes somos
@@ -50,7 +50,7 @@ La forma de construir importa tanto como el resultado.
 - **Tecnología con propósito.** Partir de una necesidad real y evaluar las soluciones por su utilidad.
 
 <p align="center">
-  <img src="./assets/tzumy-divider.svg" alt="" width="100%">
+  <img src="./profile/assets/tzumy-divider.svg" alt="" width="100%">
 </p>
 
 <p align="center">
